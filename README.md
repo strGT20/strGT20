@@ -10,7 +10,7 @@
 
 ### Tech Stack
 <a href="@"><img align="left" alt="Python" title="Python" width="21" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
-
+<br>
 ### Here's my stat g
 <p align="left">
 <a href="https://github.com/strGT20">
