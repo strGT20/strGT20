@@ -11,14 +11,24 @@
 ### Tech Stack <br>
 #### Data Scicence
 <a href="@"><img align="left" alt="Python" title="Python" width="21" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
+<a href="@"><img align="left" alt="Python" title="Python" width="21" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <br>
-#### Web Development
+
+#### Web Dev
+<a href="@"><img align="left" alt="HTML" title="HTML" width="21" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+<a href="@"><img align="left" alt="CSS" title="CSS" width="21" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" /></a>
+<a href="@"><img align="left" alt="Javascript" title="Javascript" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+<a href="@"><img align="left" alt="PHP" title="PHP" width="21" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
 <a href="@"><img align="left" alt="Laravel" title="Laravel" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
 <a href="@"><img align="left" alt="Vue" title="Vue" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
-<!-- <a href="@"><img align="left" alt="PHP" title="PHP" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
-<a href="@"><img align="left" alt="Javascript" title="Laravel" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
-<a href="@"><img align="left" alt="HTML" title="Laravel" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a> -->
 <br>
+<!-- 
+#### Mobile Dev
+<br>
+
+#### Game Dev
+<br> -->
+
 ### Take a look at my stat here:
 <p align="left">
 <a href="https://github.com/strGT20">
