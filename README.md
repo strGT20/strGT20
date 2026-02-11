@@ -15,13 +15,12 @@
 <a href="@"><img align="left" alt="Laravel" title="Laravel" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
 <a href="@"><img align="left" alt="Vue" title="Vue" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <br>
-
+<!--
 #### Mobile Dev
 <a href="@"><img align="left" alt="Java" title="Java" width="21" src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg" /></a>
 <br> 
-
+-->
 #### Game Dev
-<a href="@"><img align="left" alt="Cs" title="Cs" width="21" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /></a>
 <a href="@"><img align="left" alt="Cs" title="Cs" width="21" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /></a>
 <br>
 
