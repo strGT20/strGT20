@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenue, Panduです！👋
 - 🔭 Lagi nge-capstone di campuss bang
 - 🌱 Sambil belajar DS juga di Dicoding, Alhamdulillah jadi cohort ni ea
 - 👯 I’m looking to collaborate on (jujur bingung)
@@ -8,10 +8,18 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to learn new languages, now I'm working on my Japanese and German. I wanna become a polyglot, because i know that being a Data Scientist means you have to explain insights behind data. I believe that language is also playing a key role here.
 
-### Tech Stack
+### Tech Stack <br>
+#### Data Scicence
 <a href="@"><img align="left" alt="Python" title="Python" width="21" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
 <br>
-### Here's my stat g
+#### Web Development
+<a href="@"><img align="left" alt="Laravel" title="Laravel" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
+<a href="@"><img align="left" alt="Vue" title="Vue" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
+<!-- <a href="@"><img align="left" alt="PHP" title="PHP" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
+<a href="@"><img align="left" alt="Javascript" title="Laravel" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
+<a href="@"><img align="left" alt="HTML" title="Laravel" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a> -->
+<br>
+### Take a look at my stat here:
 <p align="left">
 <a href="https://github.com/strGT20">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
