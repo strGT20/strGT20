@@ -24,7 +24,7 @@
 <a href="@"><img align="left" alt="Cs" title="Cs" width="21" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /></a>
 <br>
 
-### Take a look at my stat here:
+### My stats
 <p align="left">
 <a href="https://github.com/strGT20">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
