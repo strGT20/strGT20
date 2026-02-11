@@ -1,12 +1,9 @@
-## Bienvenue, Panduです！👋
-- 🔭 Lagi nge-capstone di campuss bang
-- 🌱 Sambil belajar DS juga di Dicoding, Alhamdulillah jadi cohort ni ea
-- 👯 I’m looking to collaborate on (jujur bingung)
-- 🤔 I’m looking for help with (tempat pkl bang)
-- 💬 Ask me about (langsung aje tanya darderdor disini)
+## Bienvenue, Satriaです！👋
+- 🔭 Working on capstone project
+- 🌱 Currenty studying Data Science at Coding Camp 2026 by Dicoding
 - 📫 How to reach me: satrialoka2566@student.ub.ac.id
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to learn new languages, now I'm working on my Japanese and German. I wanna become a polyglot, because i know that being a Data Scientist means you have to explain insights behind data. I believe that language is also playing a key role here.
+- ⚡ Fun fact: Language, Tech, and Transportation enthusiast
 
 ### Tech Stack <br>
 #### Data Scicence
@@ -15,16 +12,18 @@
 <br>
 
 #### Web Dev
-<a href="@"><img align="left" alt="PHP" title="PHP" height="21" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
 <a href="@"><img align="left" alt="Laravel" title="Laravel" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
 <a href="@"><img align="left" alt="Vue" title="Vue" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <br>
-<!-- 
+
 #### Mobile Dev
-<br>
+<a href="@"><img align="left" alt="Java" title="Java" width="21" src="https://en.wikipedia.org/wiki/Java_%28programming_language%29#/media/File:Java_programming_language_logo.svg" /></a>
+<br> 
 
 #### Game Dev
-<br> -->
+<a href="@"><img align="left" alt="Cs" title="Cs" width="21" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /></a>
+<a href="@"><img align="left" alt="Cs" title="Cs" width="21" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" /></a>
+<br>
 
 ### Take a look at my stat here:
 <p align="left">
