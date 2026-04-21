@@ -27,7 +27,7 @@
 ### My stats
 <p align="left">
 <a href="https://github.com/strGT20">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=strGT20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=strGT20&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=strGT20&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=strGT20&layout=compact&langs_count=8&theme=merko"/>
 </a>
 </p>
