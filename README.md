@@ -30,8 +30,9 @@ I'm a 6th-semester Information Technology student at Universitas Brawijaya, pass
   <img src="https://img.shields.io/badge/NLP-Green?style=flat-square&logo=natural-language-processing&logoColor=white" alt="NLP" />
 </p>
 
-#### 💻 Development
+#### 💻 Development & System
 <p align="left">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
