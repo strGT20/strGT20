@@ -57,7 +57,7 @@ I'm a 6th-semester Information Technology student at Universitas Brawijaya, pass
 
 ### 📫 Let's Connect!
 - 📸 **Photography & Travel:** [@pnd_ssl](https://instagram.com/pnd_ssl)
-- 💼 **LinkedIn:** [Satria - LinkedIn Profile Link]
+- 💼 **LinkedIn:** [pandusatriasl](www.linkedin.com/in/pandusatriasl)
 - 🎨 **Portfolio:** [Link to your Behance/Notion/Framer]
 
 <p align="center">
