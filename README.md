@@ -60,7 +60,7 @@ Tech guy kind of. I have a lot of interest in technology, so consider this as my
 
 ### 📫 Connect further!
 - 💼 **LinkedIn:** [pandusatriasl](www.linkedin.com/in/pandusatriasl)
-- 🖌️ **Portfolio:** [Link to your Behance/Notion/Framer]
+- 🖌️ **Portfolio:** [Pandu Satria](https://drive.google.com/file/d/1hvqxNPpvyX7D3FfNa4CcyjjIAUr72Wnw/view?usp=drive_link)
 
 <p align="center">
   <i>"Bridging Aesthetic and Engineering."</i>
