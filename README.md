@@ -63,5 +63,5 @@ Tech guy kind of. I have a lot of interest in technology, so consider this as my
 - 🖌️ **Portfolio:** [Link to your Behance/Notion/Framer]
 
 <p align="center">
-  <i>"Designing with data, building with purpose."</i>
+  <i>"Bridging Aesthetic and Engineering."</i>
 </p>
