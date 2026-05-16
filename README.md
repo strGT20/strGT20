@@ -1,4 +1,4 @@
-# Hoi Wilkommen, Ik ben Satria! 👋
+# Hallo, Satria here! 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=strGT20&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 Tech guy kind of. I have a lot of interest in technology, so consider this as my personal lab😊
 
-- **Currently:** Building an AI-powered Mobile Banking Prototype for my Capstone Project.
+- **Currently:** Building an AI-personalized Mobile Banking Prototype for Capstone Project.
 - **Learning:** Data Science Cohort at **Dicoding (Coding Camp 2026)** by DBS Foundation.
 - **Interests:** Tech, Transporation, and Language Learning.
 
