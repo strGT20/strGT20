@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=strGT20&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-### 👨‍💻 About Me
-Tech guy kind of. I have a lot of interest in technology, so consider this as my personal lab😊
-
+### ABOUT
 - **Currently:** Building an AI-personalized Mobile Banking Prototype for Capstone Project.
 - **Learning:** Data Science Cohort at **Dicoding (Coding Camp 2026)** by DBS Foundation.
 - **Interests:** Tech, Transporation, and Language Learning.
