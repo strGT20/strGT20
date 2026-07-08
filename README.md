@@ -60,7 +60,7 @@
 
 ### 📫 Connect further!
 - 💼 **LinkedIn:** [pandusatriasl](www.linkedin.com/in/pandusatriasl)
-- 🖌️ **Portfolio:** [Pandu Satria](https://drive.google.com/file/d/1hvqxNPpvyX7D3FfNa4CcyjjIAUr72Wnw/view?usp=drive_link)
+- 🖌️ **Portfolio:** [Pandu Satria](https://www.figma.com/deck/3nfv6ltsdc0BqUTEk9duHd)
 
 <p align="center">
   <i>"Bridging Aesthetic and Engineering."</i>
