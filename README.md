@@ -5,7 +5,7 @@
 </p>
 
 ### ABOUT
-- **Currently:** Building an AI-personalized Mobile Banking Prototype for Capstone Project.
+- **Currently:** Built an AI-personalized Mobile Banking Prototype for FILKOM Capstone Project & AI-Career Matching for Coding Camp 2026.
 - **Learning:** Data Science Cohort at **Dicoding (Coding Camp 2026)** by DBS Foundation.
 - **Interests:** Tech, Transporation, and Language Learning.
 
@@ -60,8 +60,9 @@
 
 ### 📫 Connect further!
 - 💼 **LinkedIn:** [pandusatriasl](www.linkedin.com/in/pandusatriasl)
-- 🖌️ **Portfolio:** [Pandu Satria](https://www.figma.com/deck/3nfv6ltsdc0BqUTEk9duHd)
+- 🖌️ **Portfolio (Figma):** [Pandu Satria](https://www.figma.com/deck/3nfv6ltsdc0BqUTEk9duHd)
+- 🌐 **Portfolio (Web):** UNDER CONSTRUCTION...
 
 <p align="center">
-  <i>"Bridging Aesthetic and Engineering."</i>
+  <i>"Aesthetic and Engineering in harmony."</i>
 </p>
